@@ -2,8 +2,8 @@
  
  function Project() {
      return (
-         <div>
-             
+         <div className="project">
+             <h1>Hey I'm working</h1>
          </div>
      )
  }
