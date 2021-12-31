@@ -19,6 +19,7 @@ function Project() {
 
       <div className="container">
         <div className="row">
+          
           <div className="col__3">
             <div className="project__box  pointer relative">
               <div className="project__box__img pointer relative">
