@@ -43,7 +43,20 @@ h4.home__text{
     font-family: 'Montserrat', sans-serif;
 
 }
+.header{
+    transition: .4s all ease;
+}
 
+.header.active{
+    position:fixed;
+    z-index:500;
+    width:100%;
+    padding:0px 10px;
+    background-color:#191919;
+ 
+}
+
+/* Responsive */
 
 
 
