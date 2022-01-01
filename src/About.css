@@ -39,6 +39,11 @@ a.bottom__to__top{
     justify-content:center;
     transition: .4s all ease;
     z-index:1000;
+    
+}
+
+html{
+    scroll-behavior: smooth;
 }
 
 a.bottom__to__top.active{

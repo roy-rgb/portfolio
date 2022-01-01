@@ -6,7 +6,7 @@ import Blog3 from "./img/blog-03.jpg";
 
 function Blog() {
   return (
-    <div className="blog component__space">
+    <div className="blog component__space" id="Blog">
       <div className="heaing">
         <h1 className="heading"> Latest News</h1>
         <p className="heading p__color">
